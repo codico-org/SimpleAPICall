@@ -11,7 +11,7 @@ import SwiftUI
 struct SimpleAPICallApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
